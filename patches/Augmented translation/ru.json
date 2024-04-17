@@ -1,0 +1,186 @@
+{
+    "lang": {
+        "version": "1.2.26",
+        "language": "Russian"
+    },
+    "1": {
+        "match": "\"Show Chrome toolbar\"",
+        "replace": "\"Показать панель инструментов Chrome\""
+    },
+    "2": {
+        "match": "\"Confirm your age\"",
+        "replace": "\"Подтвердите свой возраст\""
+    },
+    "3": {
+        "match": "\"%price%/month after. Terms and conditions apply. One month free not available for users who have already tried Premium.\"",
+        "replace": "\"%price%/месяц спустя. Принять условия. Один месяц бесплатно, недоступно для пользователей, которые уже попробовали Premium.\""
+    },
+    "4": {
+        "match": "\"Enjoy ad-free music listening, offline listening, and more. Cancel anytime.\"",
+        "replace": "\"Наслаждайтесь прослушиванием музыки без рекламы, прослушиванием в офлайн режиме и многим другим. Отменить можно в любое время.\""
+    },
+    "5": {
+        "match": "\"Offline storage location\"",
+        "replace": "\"Хранилище скачанных треков\""
+    },
+    "6": {
+        "match": "\"Click to start listening\"",
+        "replace": "\"Нажмите, чтобы начать прослушивание\""
+    },
+    "7": {
+        "match": "\"Change speed\"",
+        "replace": "\"Изменение скорости\""
+    },
+    "8": {
+        "match": "\"You need to be at least 19 years old to listen to explicit content marked with\"",
+        "replace": "\"Вам должно быть не менее 19 лет, чтобы слушать непристойный контент, помеченный значком\""
+    },
+    "9": {
+        "match": "\"Add to another playlist\"",
+        "replace": "\"Добавить в другой плейлист\""
+    },
+    "10": {
+        "match": "\"Add to this playlist\"",
+        "replace": "\"Добавить в этот плейлист\""
+    },
+    "11": {
+        "match": "\"Couldn.t connect to Spotify.\"",
+        "replace": "\"Не удалось подключиться к Spotify.\""
+    },
+    "12": {
+        "match": "\"No connection\"",
+        "replace": "\"Нет соединения\""
+    },
+    "13": {
+        "match": "\"Reconnecting...\"",
+        "replace": "\"Повторное подключение...\""
+    },
+    "14": {
+        "match": "\"Character counter\"",
+        "replace": "\"Счетчик символов\""
+    },
+    "15": {
+        "match": "\"Toggle lightsaber hilt. Current is [{]0[}].\"",
+        "replace": "\"Переключить рукоять светового меча. Текущий {0}.\""
+    },
+    "16": {
+        "match": "\"Doors at .0.\"",
+        "replace": "\"Вход в {0}\""
+    },
+    "17": {
+        "match": "\"Show at .0.\"",
+        "replace": "\"Показ в {0}\""
+    },
+    "18": {
+        "match": "\"Your Location\"",
+        "replace": "\"Ваше местоположение\""
+    },
+    "19": {
+        "match": "\"Override certain user attributes to test regionalized content programming. The overrides are only active in this app.\"",
+        "replace": "\"Переопределите определенные атрибуты пользователя, чтобы протестировать региональное программирование контента. Переопределения активны только в этом приложении.\""
+    },
+    "20": {
+        "match": " was released this week!",
+        "replace": " был выпущен на этой неделе!"
+    },
+    "21": {
+        "match": "(\"one\": \"...name...) was released %years% year ago this week!\"",
+        "replace": "$1 был выпущен %years% год назад на этой неделе!\""
+    },
+    "22": {
+        "match": "(\"few\": \"...name...) was released %years% years ago this week!\"",
+        "replace": "$1 был выпущен %years% года назад на этой неделе!\""
+    },
+    "23": {
+        "match": "(\"many\": \"...name...) was released %years% years ago this week!\"",
+        "replace": "$1 был выпущен %years% лет назад на этой неделе!\""
+    },
+    "24": {
+        "match": "(\"other\": \"...name...) was released %years% years ago this week!\"",
+        "replace": "$1 был выпущен %years% года назад на этой неделе!\""
+    },
+    "25": {
+        "match": "\"Speed [{]0[}]×\"",
+        "replace": "\"Скорость {0}×\""
+    },
+    "26": {
+        "match": "\"Artist\"",
+        "replace": "\"Исполнитель\""
+    },
+    "27": {
+        "match": "\"... of ...\"",
+        "replace": "\"{0} из {1}\""
+    },
+    "28": {
+        "match": "\"Не удалось изменить\"",
+        "replace": "\"Не удалось обновить\""
+    },
+    "29": {
+        "match": "Dynamic normalizer - Actively adjust the volume by leveling out the difference between quiet and loud parts of the audio",
+        "replace": "Динамический нормализатор - активно регулирует громкость, выравнивая разницу между тихими и громкими частями аудио"
+    },
+    "30": {
+        "match": "\"Load more\"",
+        "replace": "\"Загрузить еще\""
+    },
+    "31": {
+        "match": "\"Sign up free\"",
+        "replace": "\"Бесплатная регистрация\""
+    },
+    "32": {
+        "match": "\"Build .0. is available\"",
+        "replace": "\"Сборка {0} доступна\""
+    },
+    "33": {
+        "match": "\"Downloading build .0....\"",
+        "replace": "\"Загрузка сборки {0}...\""
+    },
+    "34": {
+        "match": "\"Build .0. is ready to install\"",
+        "replace": "\"Сборка {0} готова к установке\""
+    },
+    "35": {
+        "match": "\"Remove\"",
+        "replace": "\"Удалить\""
+    },
+    "36": {
+        "match": "\"Feature Spotlight\"",
+        "replace": "\"Особенности\""
+    },
+    "37": {
+        "match": "\"prev-related-video\"",
+        "replace": "\"предыдущее связанное видео\""
+    },
+    "38": {
+        "match": "\"next-related-video\"",
+        "replace": "\"следующее связанное видео\""
+    },
+    "39": {
+        "match": "\"Do not translate\"",
+        "replace": "\"Не переводить\""
+    },
+    "40": {
+        "match": "\"Translating to .0.\"",
+        "replace": "\"Перевожу на {0}\""
+    },
+    "41": {
+        "match": "\"Translation to .0. not available\"",
+        "replace": "\"Перевод на {0} недоступен\""
+    },
+    "42": {
+        "match": "\"Translate lyrics\"",
+        "replace": "\"Перевести текст песни\""
+    },
+    "43": {
+        "match": "\"Spotify MiniPlayer\"",
+        "replace": "\"мини-плеер Spotify\""
+    },
+    "44": {
+        "match": "\"Date\"",
+        "replace": "\"Дата\""
+    },
+    "45": {
+        "match": "\"Venue\"",
+        "replace": "\"Место проведения\""
+    }
+}
